@@ -1,0 +1,19 @@
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Terraform variable files
+*.tfvars
+
+# SSH Keys
+iac-key
+iac-key.pub
+iac-key.pem
+*.pem
+
+# Terraform directories
+.terraform/
+.terraform.lock.hcl
+
+# Crash logs
+crash.log
